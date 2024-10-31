@@ -1,0 +1,19 @@
+.Favourite{
+    height: 100vh;
+    padding: 20px;
+}
+
+.empty{
+    height: 100vh;
+    width: 100vw;
+    justify-items: center;
+ 
+}
+
+.empty img{
+    height: 600px;
+    width: 600px;
+}
+.empty p{
+    font-size: 40px;
+}

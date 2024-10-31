@@ -1,0 +1,39 @@
+.AboutMe{
+    height: 100vh;
+}
+
+.Profile{
+    height: 500px;
+    width: 500px;
+    background-image: url('https://i.ibb.co/vm83jkb/Lindo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.Profile:hover{
+    background-image: url('https://i.ibb.co/Px8rNLW/Lindo2.jpg');
+
+}
+
+.Info{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 12px;
+    margin: 100px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.moreInfo{
+    width: 600px;
+    font-size: 2rem;
+    justify-items: center;
+    align-content: center;
+}
+
+.moreInfo p{
+    margin: 10px;
+
+}

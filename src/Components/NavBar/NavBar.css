@@ -1,0 +1,23 @@
+/* NavBar.css */
+nav {
+    background-color: #00bfff; /* Fondo color azul claro */
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .li-nav {
+    color: #ffffff; /* Texto blanco */
+    border-color: #ff0000; /* Borde color coral */
+    background-color: #1eff00; /* Fondo color naranja oscuro */
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .li-nav:hover {
+    background-color: #ffa500; /* Fondo color naranja claro al hacer hover */
+    color: #000000; /* Texto negro al hacer hover */
+    border-color: #ffa500; /* Borde color naranja claro al hacer hover */
+  }
+  

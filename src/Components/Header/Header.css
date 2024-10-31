@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    align-items: center;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c6e6e17-c585-47d5-9a96-844432749979/deff7td-82c9f2e6-ee3e-42e2-bee4-574bfebd1eaf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjNmU2ZTE3LWM1ODUtNDdkNS05YTk2LTg0NDQzMjc0OTk3OVwvZGVmZjd0ZC04MmM5ZjJlNi1lZTNlLTQyZTItYmVlNC01NzRiZmViZDFlYWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O_uSL7S4374eu9VoAAaBrxMJHrh5EXh9Y8Avw9BwHrQ');
+    width: 100vw;
+    height: 20vh;
+    justify-content: space-between;
+}
+
+img{
+    height: 120px;
+    width: 180px;
+}

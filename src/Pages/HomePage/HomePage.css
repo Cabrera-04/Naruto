@@ -1,0 +1,49 @@
+.Home {
+    padding: 20px;
+    height: 100%;
+  }
+  
+  .character-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .character-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .character-image {
+    width: 100px;
+    height: auto;
+  }
+  
+  .character-info {
+    padding: 10px;
+  }
+  
+  .character-info h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .character-info p {
+    font-size: 14px;
+    color: #555;
+  }
+
+.loading{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.loading img{
+  width: 600px;
+  height: 600px;
+}
